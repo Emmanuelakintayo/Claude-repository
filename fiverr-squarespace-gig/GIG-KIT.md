@@ -1,7 +1,10 @@
 # Fiverr Squarespace Gig: Ready-to-Paste Kit
 
 ## Category
-Programming & Tech > Website Platforms (Website Development) > Squarespace. Service type: Website Development / Redesign.
+Category: Programming & Tech
+Subcategory: Website Development
+Service type / platform: Squarespace (Fiverr's own category URL is /categories/programming-tech/website-development/squarespace-development).
+If the editor offers a "Website Platforms" list, pick Squarespace there. Pick "Website Development" over Web Design/Wix-style categories, because buyers searching "Squarespace" are routed there.
 
 ## Gig Title (79/80)
 ```
