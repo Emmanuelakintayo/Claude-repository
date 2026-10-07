@@ -1,0 +1,20 @@
+skill_tag,est_new_jobs_per_day,median_proposals_sampled,share_jobs_le_10_proposals,jobs_sampled,freelancers_listing_skill
+AI Chatbot,7,41,0%,10,>=10000
+AI Agent Development,36,25,30%,10,>=10000
+AI Video Generator,10,29.5,40%,10,3000-10000
+AI Consulting,2.5,20,30%,10,3000-10000
+Data Annotation (all),5,13.5,40%,10,>=10000
+Data Annotation (language-specific),,12,33%,9,
+Data Annotation (other),,38,17%,6,
+Information Security,5,26,40%,10,>=10000
+Regulatory Compliance,4,11.5,50%,10,<10000
+Legal Research,21,4,56%,9,3000-10000
+Videography,65,7.5,60%,10,3000-10000
+Appointment Setting,55,7.5,70%,10,>=10000
+Lead Generation,90,10,50%,10,>=10000
+Product Design,40,11,40%,10,>=10000
+Game Development,14,18,30%,10,3000-10000
+HighLevel,20,14,30%,10,>=10000
+Microsoft Dynamics 365,1.7,25.5,10%,10,3000-10000
+NetSuite Development,0.9,26,0%,10,
+Customer Service,100,27,20%,10,>=10000
